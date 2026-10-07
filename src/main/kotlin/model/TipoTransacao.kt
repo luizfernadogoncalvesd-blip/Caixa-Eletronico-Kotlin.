@@ -1,0 +1,5 @@
+package model
+
+enum class TipoTransacao {
+    SAQUE, DEPOSITO, TRANSFERENCIA_ENVIADA, TRANSFERENCIA_RECEBIDA
+}
